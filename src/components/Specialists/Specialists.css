@@ -1,0 +1,6 @@
+.word-spaced-text {
+     /* font-family: 'Courier New', monospace;   */
+     word-spacing: 0.1em; /* Adjust the spacing between words */
+     text-align: justify; /* Justify text for better readability */
+     line-height: 1.5; /* Adjust line height for better spacing */
+   }

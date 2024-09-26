@@ -1,0 +1,30 @@
+/* .nav-item .active{
+
+     color: rgb(10, 10, 137);
+ 
+ }  */
+
+ .Header .active{
+     
+     border-bottom: 2px solid #BC4B26;
+ } 
+ .container-one {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+  }
+  
+  .item {
+    flex: 0 0 calc(33.333% - 10px); /* 10px is for margin between items, adjust as needed */
+    margin-bottom: 10px;
+  }
+  
+  /* Media query for mobile devices */
+  @media (max-width: 767px) {
+    .item {
+      flex: 0 0 100%;
+    }
+  }
+ 
+  
