@@ -1,5 +1,5 @@
 import React from "react";
-import video from "../../assets/rbrealestae.mp4"
+import video from "../../assets/rbrealestae1.mp4"
 import "./About.css"
 const About = () => {
   return (
@@ -21,7 +21,7 @@ const About = () => {
               <h3 class="into-sub-title">We deliver unique  projects</h3>
               <p>
                 The Award-Winning Real Estate Agency that stands as a beacon of
-                excellence among Dubai’s real estate companies. Our
+                excellence among Bangladesh's real estate companies. Our
                 comprehensive portfolio features a diverse range of properties
                 for sale and rent, crafted to meet your unique requirements. .
               </p>
@@ -57,7 +57,7 @@ const About = () => {
             <p>
               Our dedicated team comprises seasoned professionals, each with a
               wealth of experience spanning over fifteen years in the
-              ever-evolving Dubai real estate landscape.
+              ever-evolving Bangladesh real estate landscape.
             </p>
 
             <div class="accordion accordion-group" id="our-values-accordion">
@@ -84,8 +84,8 @@ const About = () => {
                   data-parent="#our-values-accordion"
                 >
                   <div class="card-body">
-                    Explore Dubai’s Latest Off-Plan Properties. An “off-plan”
-                    property is a promising real estate investment in Dubai, yet
+                    Explore Bangladesh's Latest Off-Plan Properties. An “off-plan”
+                    property is a promising real estate investment in Bangladesh, yet
                     to be completed. We offer a wide selection across different
                     locations and property types. Our dedicated community
                     experts are here to guide you, ensuring you make a
@@ -118,7 +118,7 @@ const About = () => {
                   <div class="card-body">
                     A selection of properties from the UAE's leading property
                     developers who provide excellent conditions for buying
-                    property in the best areas of Dubai. Our experts will help
+                    property in the best areas of Bangladesh. Our experts will help
                     you find the perfect property to invest in!
                   </div>
                 </div>
@@ -147,7 +147,7 @@ const About = () => {
                   <div class="card-body">
                     Join us to explore your dream property and unlock the
                     exceptional service that defines Royal Bengal Real Estate
-                    LLC. Featured Properties every where in Dubai for Sale and
+                    LLC. Featured Properties every where in Bangladesh for Sale and
                     Rent.
                   </div>
                 </div>

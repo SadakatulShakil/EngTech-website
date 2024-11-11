@@ -38,8 +38,8 @@ const Footer = () => {
               <li><a href=" ">BUILDING REMODELS</a></li>
               <li><a href=" ">INTERIOR DESIGN</a></li>
               <li><a href=" ">EXTERIOR DESIGN</a></li>
-              <li><a href=" ">RENOVATION</a></li>
-              <li><a href=" ">SAFETY MANAGEMENT</a></li>
+              <li><a href=" ">ARCHITECTURAL DESIGN</a></li>
+              <li><a href=" ">STRUCTURAL DESIGN</a></li>
             </ul>
           </div> 
         </div> 

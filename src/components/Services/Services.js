@@ -216,14 +216,15 @@ const Services = () => {
                   </div>
                   <div class="ts-service-info">
                     <h3 class="service-box-title">
-                      <a href="/services">RENOVATION</a>
+                      <a href="/services">ARCHITECTURAL DESIGN</a>
                     </h3>
                     <p>
-                      In the world of real estate, the power of transformation
-                      lies not only in finding new spaces but also in breathing
-                      new life into existing ones. Renovation, the art of
-                      revitalizing properties, holds the potential to elevate a
-                      space, increase its value, and create a lasting impact.
+                Our Architectural Design services are dedicated to transforming 
+                visions into functional, aesthetic spaces that inspire and elevate.
+                 With a team of talented architects and designers, we bring 
+                 together creativity, technology, and sustainability to deliver 
+                 architectural solutions that are as innovative as they are practical.
+                 Ready to design a space that inspires and supports your lifestyle or business.
                     </p>
                     
                   </div>
@@ -251,16 +252,15 @@ const Services = () => {
                   </div>
                   <div class="ts-service-info">
                     <h3 class="service-box-title">
-                      <a href="/services">SAFETY MANAGEMENT</a>
+                      <a href="/services">STRUCTURAL DESIGN</a>
                     </h3>
                     <p>
-                      Safety begins with a thorough understanding of potential
-                      risks. Our safety management approach involves
-                      comprehensive property assessments, identifying and
-                      addressing potential hazards before they become issues.
-                      From structural integrity to fire safety, we leave no
-                      stone unturned in our commitment to providing secure
-                      environments
+                    Our Structural Design services focus on creating robust, innovative, 
+                  and sustainable designs that stand the test of time. Our team of 
+                  experienced structural engineers combines advanced technology with 
+                  in-depth industry knowledge to deliver custom solutions that meet 
+                  and exceed project requirements. Ready to bring your vision to life
+                  with a reliable structural design partner
                     </p>
                    
                   </div>

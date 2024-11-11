@@ -19,10 +19,10 @@ const Banner = () => {
             <div class="row align-items-center h-100">
               <div class="col-md-12 text-center">
                 <h2 class="slide-title" data-animation-in="slideInLeft">
-                  17 Years of excellence in
+                  10 Years of excellence in
                 </h2>
                 <h3 class="slide-sub-title" data-animation-in="slideInRight">
-                Welcome to Royal Bengal Real Estate LLC Properties in Dubai
+                Welcome to ENGTECH DESIGN AND DEVELOPMENT in BANGLADESH
                 </h3>
                 <p data-animation-in="slideInLeft" data-duration-in="1.2">
                    
@@ -127,7 +127,7 @@ const Banner = () => {
         <div class="row align-items-center">
           <div class="col-md-8 text-center text-md-left">
               <div class="call-to-action-text">
-                <h3 class="action-title">Best properties for investment or living in Dubai</h3>
+                <h3 class="action-title">Best properties for investment or living in Bangladesh</h3>
               </div>
           </div> 
           <div class="col-md-4 text-center text-md-right mt-3 mt-md-0">
